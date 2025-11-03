@@ -35,10 +35,6 @@ I am a 4th-year Computer Science Engineering student with a strong passion for F
       <br><strong>Python</strong>
     </td>
     <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="OpenCV" />
-      <br><strong>OpenCV</strong>
-    </td>
-    <td align="center" width="120">
       <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
       <br><strong>HTML5</strong>
     </td>
@@ -50,6 +46,8 @@ I am a 4th-year Computer Science Engineering student with a strong passion for F
       <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
       <br><strong>Git</strong>
     </td>
+    <td align="center" width="120">
+      </td>
   </tr>
 </table>
 
@@ -60,7 +58,7 @@ I am a 4th-year Computer Science Engineering student with a strong passion for F
 | Project | Description | Technologies Used |
 | :--- | :--- | :--- |
 | **MERN-Chat-Project** | A real-time chat application built using the MERN stack (MongoDB, Express, React, and Node.js). | React, Node.js, Express, MongoDB |
-| **Real-time-Object-Detection** | A Python project that detects objects in real-time using the YOLOv8 model and OpenCV library. | Python, YOLOv8, OpenCV |
+| **Real-time-Object-Detection** | A Python project that detects objects in real-time using the YOLOv8 model. | Python, YOLOv8 |
 | **Resolvenow (Complaints Platform)** | A web platform designed for users to submit and track online complaints. | JavaScript, HTML, CSS |
 | **Tic-Tac-Toe Game** | A classic Tic-Tac-Toe game implemented using Python. | Python |
 
