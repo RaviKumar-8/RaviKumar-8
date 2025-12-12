@@ -60,6 +60,9 @@ I am a 4th-year Computer Science Engineering student with a strong passion for F
 | **MERN-Chat-Project** | A real-time chat application built using the MERN stack (MongoDB, Express, React, and Node.js). | React, Node.js, Express, MongoDB |
 | **Real-time-Object-Detection** | A Python project that detects objects in real-time using the YOLOv8 model. | Python, YOLOv8 |
 | **Resolvenow (Complaints Platform)** | A web platform designed for users to submit and track online complaints. | JavaScript, HTML, CSS |
+| **ExpenseTracker** | A web platform designed for users to submit and track their expenses of the Month. | JavaScript, HTML, CSS |
+| **WorkTrack-Attendance-System** | A web platform designed for Companeis or Institutions to track their Employees Attendace. | React, Node.js, Express, MongoDB |
+| **RecipePlatform** | A web platform designed for the users to share their Recipies to the public. | React, Node.js, Express, MongoDB |
 | **Tic-Tac-Toe Game** | A classic Tic-Tac-Toe game implemented using Python. | Python |
 
 ---
